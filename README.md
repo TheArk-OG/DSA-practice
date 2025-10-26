@@ -40,4 +40,4 @@ The goal is simple — **code every day**, get better at problem-solving, and ma
 
 ---
 
-## ⚙️ Folder Structure
+
